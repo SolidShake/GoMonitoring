@@ -1,0 +1,11 @@
+# Server configuration
+server:
+  port: "8081"
+
+# Database configuration
+database:
+  user: "root"
+  password: null
+  host: "localhost"
+  port: "3306"
+  dbname: "monitoring_db"
